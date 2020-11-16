@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DigitalHouseFoods</string>
+    <string name="mail">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="repeatePassword">Repeate Password</string>
+</resources>
